@@ -1,0 +1,30 @@
+{'train': 1446, 'val': 155, 'test': 1022} device mps
+params 165800
+ep   5 loss 2.166 | val gtzan 48.8/54.9 mtg 62.3/71.5 | 3s
+ep  10 loss 1.766 | val gtzan 61.0/70.7 mtg 66.7/75.5 | 3s
+ep  15 loss 1.573 | val gtzan 61.0/68.0 mtg 64.0/71.2 | 3s
+ep  20 loss 1.498 | val gtzan 65.9/71.7 mtg 61.4/70.7 | 2s
+ep  25 loss 1.488 | val gtzan 65.9/71.2 mtg 60.5/71.1 | 2s
+ep  30 loss 1.461 | val gtzan 65.9/74.1 mtg 64.9/72.7 | 2s
+ep  35 loss 1.448 | val gtzan 61.0/68.8 mtg 66.7/74.6 | 2s
+ep  40 loss 1.415 | val gtzan 68.3/75.1 mtg 58.8/65.7 | 3s
+ep  45 loss 1.412 | val gtzan 63.4/70.7 mtg 64.9/73.2 | 3s
+ep  50 loss 1.384 | val gtzan 63.4/70.2 mtg 62.3/70.5 | 3s
+ep  55 loss 1.384 | val gtzan 68.3/74.1 mtg 65.8/73.6 | 3s
+ep  60 loss 1.335 | val gtzan 68.3/73.7 mtg 69.3/76.4 | 3s
+ep  65 loss 1.309 | val gtzan 68.3/71.7 mtg 65.8/72.4 | 3s
+ep  70 loss 1.274 | val gtzan 63.4/69.3 mtg 64.0/71.1 | 2s
+ep  75 loss 1.276 | val gtzan 68.3/72.9 mtg 64.0/72.7 | 2s
+ep  80 loss 1.245 | val gtzan 65.9/70.5 mtg 67.5/74.4 | 2s
+ep  85 loss 1.216 | val gtzan 65.9/71.2 mtg 63.2/71.1 | 2s
+ep  90 loss 1.225 | val gtzan 68.3/72.4 mtg 69.3/76.1 | 3s
+ep  95 loss 1.165 | val gtzan 63.4/69.0 mtg 66.7/73.2 | 3s
+ep 100 loss 1.137 | val gtzan 65.9/70.2 mtg 68.4/75.1 | 3s
+ep 105 loss 1.146 | val gtzan 63.4/69.5 mtg 68.4/75.0 | 3s
+ep 110 loss 1.124 | val gtzan 65.9/70.7 mtg 65.8/73.6 | 3s
+ep 115 loss 1.123 | val gtzan 65.9/70.7 mtg 66.7/73.9 | 3s
+ep 120 loss 1.128 | val gtzan 65.9/70.7 mtg 67.5/74.7 | 2s
+[전체] gs acc 67.1 mirex 73.7 | gtzan acc 71.3 mirex 77.1
+[30초] gs acc 63.1 mirex 70.8 | gtzan acc 71.3 mirex 77.1
+[20초] gs acc 60.9 mirex 68.9 | gtzan acc 66.5 mirex 73.5
+[10초] gs acc 56.5 mirex 65.6 | gtzan acc 61.0 mirex 68.8

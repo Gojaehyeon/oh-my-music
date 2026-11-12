@@ -1,0 +1,18 @@
+{'train': 1446, 'val': 155, 'test': 1022} device mps
+params 77160
+ep   5 loss 2.066 | val gtzan 56.1/62.0 mtg 60.5/69.1 | 2s
+ep  10 loss 1.627 | val gtzan 58.5/65.9 mtg 63.2/72.3 | 2s
+ep  15 loss 1.579 | val gtzan 65.9/71.7 mtg 64.9/72.4 | 2s
+ep  20 loss 1.529 | val gtzan 73.2/77.3 mtg 64.9/72.1 | 2s
+ep  25 loss 1.499 | val gtzan 63.4/69.8 mtg 60.5/69.7 | 2s
+ep  30 loss 1.453 | val gtzan 65.9/70.2 mtg 67.5/74.4 | 2s
+ep  35 loss 1.419 | val gtzan 63.4/70.2 mtg 68.4/76.0 | 2s
+ep  40 loss 1.401 | val gtzan 63.4/68.5 mtg 60.5/66.9 | 2s
+ep  45 loss 1.374 | val gtzan 70.7/75.4 mtg 64.0/71.1 | 2s
+ep  50 loss 1.356 | val gtzan 61.0/66.3 mtg 64.9/72.7 | 2s
+ep  55 loss 1.355 | val gtzan 68.3/74.1 mtg 63.2/70.6 | 2s
+ep  60 loss 1.326 | val gtzan 63.4/68.0 mtg 62.3/69.9 | 2s
+[전체] gs acc 67.2 mirex 73.9 | gtzan acc 68.4 mirex 75.3
+[30초] gs acc 63.4 mirex 70.7 | gtzan acc 68.4 mirex 75.3
+[20초] gs acc 60.1 mirex 68.3 | gtzan acc 62.4 mirex 70.6
+[10초] gs acc 58.3 mirex 66.5 | gtzan acc 60.3 mirex 68.5

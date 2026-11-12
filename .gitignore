@@ -1,0 +1,9 @@
+.build/
+build/
+eval/data/
+eval/cache/
+eval/.venv/
+eval/__pycache__/
+dist/
+eval/model_try.pt
+.DS_Store

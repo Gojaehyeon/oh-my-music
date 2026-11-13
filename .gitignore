@@ -7,3 +7,11 @@ eval/__pycache__/
 dist/
 eval/model_try.pt
 .DS_Store
+android/keystore/
+android/keystore.properties
+android/local.properties
+android/.gradle/
+android/**/build/
+.kotlin/
+android/.kotlin/
+.omc/
